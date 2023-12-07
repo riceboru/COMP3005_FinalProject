@@ -1,5 +1,5 @@
 # COMP3005_FinalProject
-*Most of the Java code is based on Assignment 4*
+*Most of the Java code is based on Assignment 4 \n
 requirement:
 
 1. you need a database called Project_FitnessClubDB
