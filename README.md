@@ -21,8 +21,8 @@ Example: private final String url = "jdbc:postgresql://localhost:5432/YOUR_DATAB
 - There will be some one-to-many relationships or many-to-many relationships in the project, such as member and group class. Members can join different group classes, and group classes can accommodate many students, resulting in data with many duplicate groups. So I divided it into additional tables such as EquipmentMaintain, PersonalTrain, MemberJoinGroupClass, etc.
 
 ## Introduction to video and program features:
-  I divided the video into several parts, each video corresponds to a main function:
-  **All DEMO videos are in the Video folder**
+  I divided the video into several parts, each video corresponds to a main function:  
+  **All DEMO videos are in Final DEMO video folder**
   
   ### 1. Manage all users
   **Related videos**: Video1_manage_users.mp4  
