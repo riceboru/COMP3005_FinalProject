@@ -22,6 +22,7 @@ Example: private final String url = "jdbc:postgresql://localhost:5432/YOUR_DATAB
 
 ## Introduction to video and program features:
   I divided the video into several parts, each video corresponds to a main function:
+  **All DEMO videos are in the Video folder**
   
   ### 1. Manage all users
   **Related videos**: Video1_manage_users.mp4  
@@ -30,5 +31,27 @@ Example: private final String url = "jdbc:postgresql://localhost:5432/YOUR_DATAB
     The video shows how to browse all members and add users. Due to the length of the video, it only shows the information about adding and modifying members, because the usage of staff and coaches is similar to that of members.  
 
   ### 2. Manage group class
-  **Related videos**: Video2_Manage_groupclass.mp4 
-  **Description**: 
+  **Related videos**: Video2_Manage_groupclass.mp4  
+  **Description**:  
+    Staff interface: allows staff to add new coaching schedules, and can add new group classes based on the coaching schedules  
+    Member interface: Allow members to view and join group classes based on course ID  
+    (Once successful in joining a group class, members will receive 50 loyalty points)  
+    The demo video shows how to add a new group class based on the coach ID and schedule and how members can join the group class.  
+    
+  ### 3. Personal Train
+  **Related videos**: Video3_Personal_Train.mp4  
+  **Description**:  
+    Member interface: allows members to reserve personal train according to the coach’s schedule and coach
+    (Once the reservation is successful, members will receive 100 loyalty points) 
+
+  ### 4. Maintain equipment
+  **Related videos**: Video4_Maintain_equipment.mp4  
+  **Description**:  
+    Staff interface: allows staff to view equipment availability and equipment maintenance history. And login to the staff's maintenance records  
+
+  ### 5. User borrow equipment
+  **Related videos**: Video5_Borrow_equipment.mp4  
+  **Description**:  
+    Member Interface: Allows members to view which devices are available and borrow available devices.
+    Also, allow members to return equipment  
+    
